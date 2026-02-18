@@ -1,16 +1,33 @@
-# React + Vite
+# My News 📰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My News is a responsive React-based news web application that fetches real-time headlines using News API.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Latest news updates
+- Search functionality
+- Category-based filtering
+- Multi-language support
+- Smooth navigation using React Router
+- Responsive UI design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- React.js
+- Vite
+- JavaScript (ES6+)
+- CSS3
+- News API
 
-## React Compiler
+## 📦 Installation
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clone the repository:
+   git clone https://github.com/payalgupta28/my-news-react-app.git
 
-## Expanding the ESLint configuration
+2. Install dependencies:
+   npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3. Run the development server:
+   npm run dev
+
+## 🎯 Project Purpose
+
+This project was built to strengthen my understanding of React hooks, API integration, component-based architecture, and modern frontend development practices.
